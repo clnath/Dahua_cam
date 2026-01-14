@@ -38,9 +38,7 @@ Create a file named ips.txt and add one IP address per line:
 
 Clone the repository:
 
-git clone <repository-url>
-cd <repository-folder>
-
+git clone https://github.com/clnath/Dahua_cam.git
 
 Make sure the script file CC_cam_script.py is present.
 
